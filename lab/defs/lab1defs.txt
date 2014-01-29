@@ -1,0 +1,21 @@
+# -- coding: utf-8 -- 
+
+mkdir = ny mappe
+
+cd    = entre en mappe
+
+ls    = list directory, altså liste mappens filer
+
+ls -l = spesifiserer filene mer i dybde (bruker, filstørrelse, dato, tid og filnavn (l = long)
+
+ls -la = points to a real file (~)
+
+pwd = vis en spesifik folder, mappe
+
+pipes and redirection = chain commands together
+
+grep = prints lines of input matching a specified pattern.
+cat' is supposed to be used for concatenating files. Like "cat file1 file2". But some administrators abuse the command to put something into a pipeline
+
+less= fremmvisning (men kun) av filer fra terminal 
+
