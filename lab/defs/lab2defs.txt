@@ -1,0 +1,20 @@
+IS-105 LAB2-Defs
+Besvarelser fra oppgave 2 LAB2
+Skrevet av Simon Eriksen og Minh Nguyen Dinh. 
+
+# Operatør prioritet in Python:
+
+I matematiske beregninger og de flese programmeringsspråk (Inkludert Python selvfølgelig) eksisterer det visse regelsett for "order of operations" altså hvilken rekkefølge/ prosedyrer kalkulasjonene skal beregnes. Matematiske kalkulasjoner/operasjoner kan være å addere, subtrahere, multiplisere ect.. Og i programmeringsverdenen: hvis, er lik, større enn ect.. 
+
+Med andre ord:
+Operatørene har forskjellig prioritet: kalkulasjoner som innheloder * / + og - kan gi feil svar derson f.eks deling og ganging utføres først. Denne modellen(operatør priotitet) for utførelse av kalulasjon(er) er essensiell, da det er kritisk for at handlinger som bruker operatører skal gi riktige svar. Beregnes utifra produkt.   
+
+# One's complement 
+
+Ones' compliment defineres ved at en inverterer alle bits som er 0 til 1 og 1 til 0 innad i en oppgave. Dette vil si at en konverterer tallet til dets motsatte verdi. 
+
+# Two's complement:
+
+Two's compliment er en mattematisk operasjon på binære tall. I Two's compliment brukes også Ones' compliment. Det en gjør er at en konverterer tallet til sin motsatte verdi og så legger en til 1.
+
+
