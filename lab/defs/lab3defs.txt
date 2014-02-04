@@ -1,0 +1,24 @@
+Gruppemedlem: Simon Eriksen og Minh Dinh
+
+Definisjoner:
+
+Regular expression:
+Er en frekvens/ sammensetting av tegn som sammen former et slags søke mønster. 
+Hovedsaklig for bruk sammen med Strings eller string matching. 
+
+Import:
+Importmetoden tillater deg å hente inn funksjoner definert andre steder f.eksempel en anne modulller en du selv har laget
+,uten å måtte implementere modulen inne i selve filen. 
+
+Bash:
+Bash er et unix shell (kommandolinje) for unix og uixlignende operativsystemer. Bash er en kommando prosessor,
+ altså den kjøres i et tekst vindu, hvilket tillater brukeren å skrive kommandoer som skaper reaksjoner. 
+
+"Skript språk": 
+Skript språk eller Skriptprogrammeringsspråk som det opprinnelig heter, er en type programmeringsspråk 
+som tolkes og utføres av forskjellige programmer. Et eksempel på et skript språk kan være pearl som nevnes under. 
+
+Perl: 
+Perl er et programmeringsspråk som ble utviklet av Larry Wall 1987. Perl ble utviklet som et 
+praktisk programmeringsspråk for å hente ut informasjon fra tekstfiler for og så å ta i bruk denne informasjonen.
+ 
